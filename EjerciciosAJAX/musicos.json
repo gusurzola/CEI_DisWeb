@@ -1,0 +1,28 @@
+[
+    {
+        "nombre":"Freddie Mercury",
+        "foto":"mercury.jpg",
+        "instrumento":"Voz líder",
+        "nacimiento":"1946"
+    },
+    {
+        "nombre":"Brian May",
+        "foto":"may.jpg",
+        "instrumento":"Guitarra",
+        "nacimiento":"1947"
+    },
+    {
+        "nombre":"John Deacon",
+        "foto":"deacon.jpg",
+        "instrumento":"Bajo",
+        "nacimiento":"1951"
+    },
+    {
+        "nombre":"Roger Taylor",
+        "foto":"taylor.jpg",
+        "instrumento":"Bateria",
+        "nacimiento":"1949"
+    }
+    
+    
+]
